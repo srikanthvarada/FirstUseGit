@@ -14,7 +14,9 @@ public class StringPerformanceTest {
                 sb2.append("Java");
             }
             System.out.println("Excecution Time " + (System.currentTimeMillis()-startTime)+ " ms");
+        System.out.println("Hi My first Git use");
         }
+
     }
 
 
